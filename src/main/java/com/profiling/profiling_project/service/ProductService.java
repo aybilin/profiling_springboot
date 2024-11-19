@@ -20,9 +20,9 @@ public class ProductService {
     }
 
     public Product addProduct(Product product) {
-        if (productRepository.existsById(product.getId())) {
-            throw new RuntimeException("Product with ID " + product.getId() + " already exists");
-        }
+        //if (productRepository.existsById(product.getId())) {
+        //    throw new RuntimeException("Product with ID " + product.getId() + " already exists");
+        //}
         return productRepository.save(product);
     }
 

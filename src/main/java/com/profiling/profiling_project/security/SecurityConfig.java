@@ -19,7 +19,7 @@ public class SecurityConfig {
     public SecurityFilterChain securityFilterChain(HttpSecurity http) throws Exception {
         http.csrf().disable()
                 .authorizeHttpRequests(auth -> auth
-                        .requestMatchers("/auth/**").permitAll() // Routes publiques
+                        .requestMatchers("/api/**").permitAll() // Routes publiques
                         .anyRequest().authenticated() // Routes protégées
                 )
                 .addFilterBefore(authFilter, UsernamePasswordAuthenticationFilter.class); // Ajout du filtre
