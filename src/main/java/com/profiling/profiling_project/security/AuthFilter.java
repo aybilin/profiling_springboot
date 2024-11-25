@@ -25,6 +25,7 @@ public class AuthFilter extends OncePerRequestFilter {
         String authHeader = request.getHeader("Authorization");
         if (authHeader != null && authHeader.startsWith("Bearer ")) {
             String token = authHeader.substring(7);
+            System.out.println("kawthar"+token);
             String email = jwtUtil.extractEmail(token);
             if (email != null) {
                 SecurityContextHolder.getContext()

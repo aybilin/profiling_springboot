@@ -14,23 +14,23 @@ import java.time.LocalDate;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/api/products")
 public class ProductController {
 
     @Autowired
     private ProductService productService;
 
-    @GetMapping("/products")
+    @GetMapping()
     public List<Product> getAllProducts() {
         return productService.getAllProducts();
     }
 
-    @GetMapping("/products/{id}")
+    @GetMapping("/{id}")
     public Product getProductById(@PathVariable String id) {
         return productService.getProductById(id);
     }
 
-    @PostMapping("/products")
+    @PostMapping()
     public ResponseEntity<?> addProduct(@RequestParam("name") String name,
                                         @RequestParam("price") double price,
                                         @RequestParam("expirationDate") String expirationDate,
@@ -45,7 +45,7 @@ public class ProductController {
         productService.addProduct(product);
         return ResponseEntity.status(HttpStatus.CREATED).body("Product created successfully with image.");
     }
-    @PutMapping(value = "/products/{id}", consumes = MediaType.MULTIPART_FORM_DATA_VALUE)
+    @PutMapping(value = "/{id}", consumes = MediaType.MULTIPART_FORM_DATA_VALUE)
     public ResponseEntity<?> updateProductWithImage(
             @PathVariable String id,
             @RequestParam("name") String name,
@@ -67,13 +67,13 @@ public class ProductController {
     }
 
 
-    @DeleteMapping("/products/{id}")
+    @DeleteMapping("/{id}")
     public void deleteProduct(@PathVariable String id) {
         productService.deleteProduct(id);
     }
 
     // Endpoint pour récupérer l'image d'un produit
-    @GetMapping("/products/{id}/image")
+    @GetMapping("/{id}/image")
     public ResponseEntity<byte[]> getProductImage(@PathVariable String id) {
         Product product = productService.getProductById(id);
         return ResponseEntity.ok().contentType(MediaType.IMAGE_JPEG).body(product.getImage());

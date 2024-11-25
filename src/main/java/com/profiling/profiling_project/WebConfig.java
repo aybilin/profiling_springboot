@@ -18,7 +18,8 @@ public class WebConfig implements WebMvcConfigurer {
                         .allowedMethods("GET", "POST", "PUT", "DELETE", "OPTIONS") // Méthodes HTTP autorisées
                         .allowedHeaders("*") // Autorise tous les en-têtes
                         .exposedHeaders("Authorization") // Permet d'exposer certains en-têtes au frontend
-                        .allowCredentials(true); // Nécessaire si vous utilisez des cookies ou l'authentification
+                        .allowCredentials(true); // Nécessaire si vous utilisez des cookies ou l'
+                System.out.println("CORS configuration applied!");
             }
         };
     }
