@@ -14,4 +14,5 @@ public class Product {
     private String name;
     private double price;
     private LocalDate expirationDate;
+    private byte[] image;  // Champ pour stocker l'image sous forme de tableau de bytes
 }

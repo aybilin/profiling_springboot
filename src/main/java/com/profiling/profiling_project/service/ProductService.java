@@ -11,18 +11,17 @@ import java.util.List;
 public class ProductService {
     @Autowired
     private ProductRepository productRepository;
+
     public List<Product> getAllProducts() {
         return productRepository.findAll();
     }
+
     public Product getProductById(String id) {
         return productRepository.findById(id)
                 .orElseThrow(() -> new RuntimeException("Product with ID " + id + " not found"));
     }
 
     public Product addProduct(Product product) {
-        //if (productRepository.existsById(product.getId())) {
-        //    throw new RuntimeException("Product with ID " + product.getId() + " already exists");
-        //}
         return productRepository.save(product);
     }
 
@@ -38,6 +37,7 @@ public class ProductService {
         existingProduct.setName(updatedProduct.getName());
         existingProduct.setPrice(updatedProduct.getPrice());
         existingProduct.setExpirationDate(updatedProduct.getExpirationDate());
+        existingProduct.setImage(updatedProduct.getImage()); // Mise à jour de l'image
         return productRepository.save(existingProduct);
     }
 }
