@@ -2,6 +2,8 @@ package com.profiling.profiling_project.service;
 
 import com.profiling.profiling_project.model.Product;
 import com.profiling.profiling_project.repository.ProductRepository;
+import io.opentelemetry.api.trace.Span;
+import io.opentelemetry.api.trace.Tracer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -12,8 +14,25 @@ public class ProductService {
     @Autowired
     private ProductRepository productRepository;
 
+    private final Tracer tracer;
+
+    public ProductService(Tracer tracer) {
+        this.tracer = tracer;
+    }
+
     public List<Product> getAllProducts() {
-        return productRepository.findAll();
+
+        Span span = tracer.spanBuilder("fetchProducts").startSpan();
+
+        try {
+            return productRepository.findAll();
+
+        }catch (Exception e) {
+            span.recordException(e); // Enregistrer les erreurs dans la trace
+            throw e;
+        }finally {
+            span.end(); // Terminer la trace
+        }
     }
 
     public Product getProductById(String id) {
