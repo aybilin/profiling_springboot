@@ -1,0 +1,1681 @@
+[ {
+  "timestamp" : "2024-11-27T02:23:16.2360843+01:00",
+  "user" : {
+    "email" : "bilembou@example.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: bilembou@example.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:23:19.3614223+01:00",
+  "user" : {
+    "email" : "bilembou@example.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: bilembou@example.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:23:20.36864+01:00",
+  "user" : {
+    "email" : "bilembou@example.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: bilembou@example.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:23:21.2678396+01:00",
+  "user" : {
+    "email" : "bilembou@example.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: bilembou@example.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:23:22.1639975+01:00",
+  "user" : {
+    "email" : "bilembou@example.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: bilembou@example.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:35:29.8273262+01:00",
+  "user" : {
+    "email" : "bilembou@example.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: bilembou@example.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:35:47.9433139+01:00",
+  "user" : {
+    "email" : "bilembou@example.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: bilembou@example.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:35:52.4136436+01:00",
+  "user" : {
+    "email" : "bilembou@example.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: bilembou@example.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:41:05.0192148+01:00",
+  "user" : {
+    "email" : "bilembou@example.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: bilembou@example.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:41:07.6177849+01:00",
+  "user" : {
+    "email" : "bilembou@example.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: bilembou@example.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:41:10.3669469+01:00",
+  "user" : {
+    "email" : "bilembou@example.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: bilembou@example.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:41:12.1958335+01:00",
+  "user" : {
+    "email" : "bilembou@example.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: bilembou@example.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:45:00.9233869+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:48:04.5489809+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:48:08.4354156+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:48:10.3063062+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:48:12.285334+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:48:14.4347217+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:48:16.3866302+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T02:48:27.1344678+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T16:38:22.4361726+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T16:38:25.3914819+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T18:35:34.1785529+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-27T18:54:32.9807994+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-27T19:23:42.4316653+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T12:18:41.0237638+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T12:19:41.5944159+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T12:19:52.0891782+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T12:21:29.6345872+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T12:40:04.4602804+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T12:40:09.896328+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T12:41:15.1261892+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T12:45:30.3461025+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T12:47:35.8416572+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T12:47:55.9518533+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:32:14.9295626+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:32:19.5606539+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:32:21.0047049+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:32:22.1795812+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:32:23.6207397+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:32:24.7977345+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:32:26.0962298+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:32:27.5858032+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:32:53.5395519+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:32:54.8914471+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:32:56.1990218+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:32:57.3383148+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:32:58.9507154+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:33:00.0331519+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:33:01.6040772+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:33:03.0132896+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:35:08.292045+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:35:13.208146+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:35:15.6098378+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:35:18.1676611+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:36:20.7113239+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T19:37:01.3831724+01:00",
+  "user" : {
+    "email" : "mark@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:15:06.1969205+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:15:08.516544+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:15:09.8874941+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:15:11.5370562+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:15:12.6226912+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:15:14.4038212+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:15:15.6384948+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:15:16.9654244+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:16:53.9135252+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:16:55.3294653+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:16:56.6442902+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:16:57.9197027+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:16:59.4583663+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:17:00.6148452+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:17:01.9063657+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:17:03.2112783+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:17:04.5269379+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:17:06.2608422+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:17:25.5029225+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:17:26.8696492+01:00",
+  "user" : {
+    "email" : "dadoua.kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dadoua.kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:20:20.0684268+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:20:21.3152434+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:20:22.5555555+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:20:31.7892739+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:20:33.0430669+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:20:34.1691323+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:20:35.2009748+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:20:36.1430613+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:20:37.2473738+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:20:38.2513391+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:20:39.3146821+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:20:40.2182751+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:22:09.4403932+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:22:10.788339+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:22:12.1826063+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:22:13.4211967+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:22:14.8455225+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:22:15.8208168+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:22:17.136956+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:22:18.3012126+01:00",
+  "user" : {
+    "email" : "dehimat@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: dehimat@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:24:47.3671718+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:24:48.975121+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:24:51.1394369+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:24:52.6783016+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:24:53.9887759+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:24:59.4090338+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:25:20.7052546+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:25:39.1521383+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:25:40.46618+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:25:41.599359+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:25:42.7672899+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:25:53.3928463+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:25:57.7218754+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:25:58.9500212+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:26:00.241307+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:26:01.4898178+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:26:02.6761821+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:26:04.0733827+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:26:58.2339542+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:27:05.1194907+01:00",
+  "user" : {
+    "email" : "lehamdi@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: lehamdi@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:36:49.2707898+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:50:58.7179769+01:00",
+  "user" : {
+    "email" : "anonymousUser",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: anonymousUser, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-11-28T20:51:14.513086+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getAllProducts"
+  }
+} ]
