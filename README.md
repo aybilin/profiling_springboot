@@ -36,7 +36,7 @@ Ce projet est une application complète comprenant un **backend en Java Spring B
 
 ```bash
 git clone https://github.com/aybilin/profiling_springboot.git
-cd votre-repo
+cd profiling_springboot
 ```
 
 
@@ -52,7 +52,7 @@ cd votre-repo
 ### Backend Logging
 
 Les logs sont générés automatiquement à l'aide de Spoon et sont stockés au format JSON dans logs/application-logs.json ou lps-logs.json. Les profils utilisateurs générés sont sauvegardés dans la base de donnée dans user-profiles.
-### Tracing avec OpenTelemetry
+
 
 ---
 
