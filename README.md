@@ -65,16 +65,3 @@ Les logs sont générés automatiquement à l'aide de Spoon et sont stockés au 
    - Mettre à jour les informations des produits.
 
 Ces scénarios génèrent des logs pour profiler les utilisateurs selon leurs actions.
-
----
-
-## 📄 Licence
-
-Ce projet est sous licence MIT.
-
----
-
-## ✨ Contributeurs
-
-- **Votre Nom**  
-  [Votre GitHub](https://github.com/votre-utilisateur)
