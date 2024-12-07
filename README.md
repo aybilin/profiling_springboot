@@ -47,6 +47,9 @@ cd profiling_springboot
     spring.data.mongodb.uri=mongodb://localhost:27017/prof_database
    ```
 
+**Pour démarrer l'application :**
+mvn spring-boot:run
+
 
 ## 📊 Logging 
 
