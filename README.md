@@ -52,7 +52,7 @@ cd profiling_springboot
 
 ### Backend Logging
 
-Les logs sont générés automatiquement à l'aide de Spoon et sont stockés au format JSON dans logs/application-logs.json ou lps-logs.json. Les profils utilisateurs générés sont sauvegardés dans la base de donnée dans user-profiles.
+Les logs sont générés automatiquement à l'aide de Spoon et sont stockés au format JSON dans **logs/application-logs.json** ou **lps-logs.json**. Les profils utilisateurs générés sont sauvegardés dans la base de donnée dans la Collection **user-profiles**.
 
 
 ---
