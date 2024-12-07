@@ -13,6 +13,7 @@ Ce projet est une application complète comprenant un **backend en Java Spring B
 - **CRUD Utilisateurs :**
   - Gestion des utilisateurs avec ID, nom, âge, email, et mot de passe.
 - **Logging :**
+  - Insertion automatique des Logs avec Spoon
   - Utilisation de **Logback** avec **SLF4J** pour le logging.
   - Création de profils d'utilisateurs basés sur leurs opérations (lecture, écriture, recherche).
 - **Base de Données :**
