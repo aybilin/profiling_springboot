@@ -48,8 +48,9 @@ cd profiling_springboot
    ```
 
 **Pour démarrer l'application :**
+```
 mvn spring-boot:run
-
+```
 
 ## 📊 Logging 
 
