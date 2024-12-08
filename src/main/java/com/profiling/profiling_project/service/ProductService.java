@@ -22,7 +22,7 @@ public class ProductService {
 
     public List<Product> getAllProducts() {
 
-        Span span = tracer.spanBuilder("fetchProducts").startSpan();
+        Span span = tracer.spanBuilder("getAllProducts").startSpan();
 
         try {
             return productRepository.findAll();

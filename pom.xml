@@ -106,6 +106,12 @@
 			<artifactId>opentelemetry-semconv</artifactId>
 			<version>1.28.0-alpha</version> <!-- Vérifiez que cette version correspond à celle de vos autres dépendances OpenTelemetry -->
 		</dependency>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>4.0.1</version>
+			<scope>provided</scope>
+		</dependency>
 
 
 
