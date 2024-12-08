@@ -1,4 +1,20 @@
 [ {
+  "read_operations_count" : 78,
+  "email" : "kawthar@gmail.com",
+  "operations" : {
+    "write" : [ "addProduct", "addProduct", "addProduct", "addProduct", "addProduct", "addProduct", "addProduct", "deleteProduct", "addProduct", "deleteProduct", "deleteProduct", "deleteProduct", "deleteProduct", "addProduct" ],
+    "read" : [ "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts" ],
+    "expensive" : [ ]
+  }
+}, {
+  "read_operations_count" : 30,
+  "email" : "ayoub@gmail.com",
+  "operations" : {
+    "write" : [ "addProduct", "deleteProduct", "addProduct", "addProduct", "addProduct", "addProduct" ],
+    "read" : [ "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts" ],
+    "expensive" : [ "getMostExpensiveProducts" ]
+  }
+}, {
   "read_operations_count" : 20,
   "email" : "dadoua.kawthar@gmail.com",
   "operations" : {
@@ -36,6 +52,78 @@
   "operations" : {
     "write" : [ ],
     "read" : [ "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts" ],
+    "expensive" : [ ]
+  }
+}, {
+  "read_operations_count" : 0,
+  "email" : "user@gmail.com",
+  "operations" : {
+    "write" : [ ],
+    "read" : [ ],
+    "expensive" : [ ]
+  }
+}, {
+  "read_operations_count" : 0,
+  "email" : "ines@gmail.com",
+  "operations" : {
+    "write" : [ ],
+    "read" : [ ],
+    "expensive" : [ ]
+  }
+}, {
+  "read_operations_count" : 0,
+  "email" : "imene@gmail.com",
+  "operations" : {
+    "write" : [ ],
+    "read" : [ ],
+    "expensive" : [ ]
+  }
+}, {
+  "read_operations_count" : 0,
+  "email" : "brahim@gmail.com",
+  "operations" : {
+    "write" : [ ],
+    "read" : [ ],
+    "expensive" : [ ]
+  }
+}, {
+  "read_operations_count" : 0,
+  "email" : "assia@gmail.com",
+  "operations" : {
+    "write" : [ ],
+    "read" : [ ],
+    "expensive" : [ ]
+  }
+}, {
+  "read_operations_count" : 0,
+  "email" : "amine@gmail.com",
+  "operations" : {
+    "write" : [ ],
+    "read" : [ ],
+    "expensive" : [ ]
+  }
+}, {
+  "read_operations_count" : 0,
+  "email" : "majid@gmail.com",
+  "operations" : {
+    "write" : [ ],
+    "read" : [ ],
+    "expensive" : [ ]
+  }
+}, {
+  "read_operations_count" : 0,
+  "email" : "youcef@gmail.com",
+  "operations" : {
+    "write" : [ ],
+    "read" : [ ],
+    "expensive" : [ ]
+  }
+}, {
+  "read_operations_count" : 0,
+  "email" : "ahmed@gmail.com",
+  "operations" : {
+    "write" : [ ],
+    "read" : [ ],
     "expensive" : [ ]
   }
 } ]

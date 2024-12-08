@@ -1,9 +1,9 @@
 [ {
-  "email" : "mark@gmail.com",
-  "expensive_operations_count" : 18,
   "operations" : {
     "write" : [ "addProduct", "addProduct", "addProduct", "addProduct", "addProduct", "addProduct", "addProduct", "addProduct" ],
     "read" : [ "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts" ],
     "expensive" : [ "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts" ]
-  }
+  },
+  "email" : "mark@gmail.com",
+  "expensive_operations_count" : 18
 } ]

@@ -1,17 +1,17 @@
 [ {
-  "email" : "dehimat@gmail.com",
-  "write_operations_count" : 12,
   "operations" : {
     "write" : [ "addProduct", "addProduct", "addProduct", "addProduct", "addProduct", "addProduct", "addProduct", "addProduct", "addProduct", "addProduct", "addProduct", "addProduct" ],
     "read" : [ ],
     "expensive" : [ "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts", "getMostExpensiveProducts" ]
-  }
+  },
+  "email" : "dehimat@gmail.com",
+  "write_operations_count" : 12
 }, {
-  "email" : "markydony@gmail.com",
-  "write_operations_count" : 9,
   "operations" : {
     "write" : [ "deleteProduct", "deleteProduct", "addProduct", "addProduct", "addProduct", "addProduct", "addProduct", "addProduct", "addProduct" ],
     "read" : [ "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts" ],
     "expensive" : [ ]
-  }
+  },
+  "email" : "markydony@gmail.com",
+  "write_operations_count" : 9
 } ]
