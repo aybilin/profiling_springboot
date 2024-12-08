@@ -1,16 +1,21 @@
 package com.profiling.profiling_project.controller;
+
 import com.profiling.profiling_project.model.Product;
 import com.profiling.profiling_project.util.LogAnalyzer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.security.core.context.SecurityContextHolder;
 import org.springframework.web.bind.annotation.*;
+import org.springframework.web.multipart.MultipartFile;
 
 import java.io.IOException;
+import java.time.LocalDate;
+import java.util.List;
 
 @RestController
-@RequestMapping("/api")
+@RequestMapping("/api/products")
 public class ProductController {
     private static final Logger logger = LoggerFactory.getLogger(AuthController.class);
     @org.springframework.beans.factory.annotation.Autowired
@@ -18,7 +23,7 @@ public class ProductController {
     @Autowired
     private LogAnalyzer logAnalyzer;
 
-    @GetMapping("/products")
+    @GetMapping()
     public java.util.List<com.profiling.profiling_project.model.Product> getAllProducts() {
         logger.info("Utilisateur: " + SecurityContextHolder.getContext().getAuthentication().getName() + ", Méthode appelée: getAllProducts");
         try {
@@ -29,7 +34,7 @@ public class ProductController {
         return productService.getAllProducts();
     }
 
-    @GetMapping("/products/{id}")
+    @GetMapping("/{id}")
     public com.profiling.profiling_project.model.Product getProductById(@PathVariable
     String id) {
         logger.info("Utilisateur: " + SecurityContextHolder.getContext().getAuthentication().getName() + ", Méthode appelée: getProductById");
@@ -55,7 +60,7 @@ public class ProductController {
     }
 
 
-    @PostMapping("/products")
+    @PostMapping()
     public org.springframework.http.ResponseEntity<?> addProduct(@RequestParam("name")
     String name, @RequestParam("price")
     double price, @RequestParam("expirationDate")
@@ -76,14 +81,13 @@ public class ProductController {
         }
         return org.springframework.http.ResponseEntity.status(org.springframework.http.HttpStatus.CREATED).body("Product created successfully with image.");
     }
-
     @PutMapping(value = "/products/{id}", consumes = org.springframework.http.MediaType.MULTIPART_FORM_DATA_VALUE)
     public org.springframework.http.ResponseEntity<?> updateProductWithImage(@PathVariable
-    String id, @RequestParam("name")
-    String name, @RequestParam("price")
-    double price, @RequestParam("expirationDate")
-    String expirationDate, @RequestParam(value = "image", required = false)
-    org.springframework.web.multipart.MultipartFile image) throws java.io.IOException {
+                                                                             String id, @RequestParam("name")
+                                                                             String name, @RequestParam("price")
+                                                                             double price, @RequestParam("expirationDate")
+                                                                             String expirationDate, @RequestParam(value = "image", required = false)
+                                                                             org.springframework.web.multipart.MultipartFile image) throws java.io.IOException {
         logger.info("Utilisateur: " + SecurityContextHolder.getContext().getAuthentication().getName() + ", Méthode appelée: updateProductWithImage");
         com.profiling.profiling_project.model.Product product = productService.getProductById(id);
         product.setName(name);
@@ -101,7 +105,7 @@ public class ProductController {
         return org.springframework.http.ResponseEntity.ok("Product updated successfully!");
     }
 
-    @DeleteMapping("/products/{id}")
+    @DeleteMapping("/{id}")
     public void deleteProduct(@PathVariable
     String id) {
         logger.info("Utilisateur: " + SecurityContextHolder.getContext().getAuthentication().getName() + ", Méthode appelée: deleteProduct");
@@ -114,7 +118,7 @@ public class ProductController {
     }
 
     // Endpoint pour récupérer l'image d'un produit
-    @GetMapping("/products/{id}/image")
+    @GetMapping("/{id}/image")
     public org.springframework.http.ResponseEntity<byte[]> getProductImage(@PathVariable
     String id) {
         logger.info("Utilisateur: " + SecurityContextHolder.getContext().getAuthentication().getName() + ", Méthode appelée: getProductImage");

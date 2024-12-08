@@ -24,10 +24,12 @@ public class AuthController {
     @PostMapping("/auth/register")
     public org.springframework.http.ResponseEntity<?> register(@RequestBody
     com.profiling.profiling_project.model.User user) {
-        logger.info("Utilisateur: " + SecurityContextHolder.getContext().getAuthentication().getName() + ", Méthode appelée: register");
+        //logger.info("Utilisateur: " + SecurityContextHolder.getContext().getAuthentication().getName() + ", Méthode appelée: register");
+        logger.info("Utilisateur: " + user.getEmail() + ", Méthode appelée: register");
+
         // logger.info("Enregistrement d'un nouvel utilisateur avec l'email : {}", user.getEmail());
         if (userRepository.findByEmail(user.getEmail()).isPresent()) {
-            // logger.warn("Tentative d'enregistrement pour un email existant : {}", user.getEmail());
+            logger.warn("Tentative d'enregistrement pour un email existant : {}", user.getEmail());
             return org.springframework.http.ResponseEntity.status(org.springframework.http.HttpStatus.BAD_REQUEST).body("L'utilisateur existe déjà.");
         }
         // Hacher le mot de passe avant de l'enregistrer
@@ -35,29 +37,29 @@ public class AuthController {
         user.setPassword(hashedPassword);
         userRepository.save(user);// Enregistrer l'utilisateur dans la base
 
-        // logger.info("Utilisateur enregistré avec succès : {}", user.getEmail());
+        logger.info("Utilisateur enregistré avec succès : {}", user.getEmail());
         return org.springframework.http.ResponseEntity.status(org.springframework.http.HttpStatus.CREATED).body("Utilisateur créé avec succès.");
     }
 
     @PostMapping("/auth/login")
     public org.springframework.http.ResponseEntity<?> login(@RequestBody
     com.profiling.profiling_project.model.AuthRequest loginRequest) {
-        logger.info("Utilisateur: " + SecurityContextHolder.getContext().getAuthentication().getName() + ", Méthode appelée: login");
-        // logger.info("Tentative de connexion pour l'email : {}", loginRequest.getEmail());
+        //logger.info("Utilisateur: " + SecurityContextHolder.getContext().getAuthentication().getName() + ", Méthode appelée: login");
+        logger.info("Utilisateur: " + loginRequest.getEmail() + ", Méthode appelée: login");
         // Chercher l'utilisateur par son email
         java.util.Optional<com.profiling.profiling_project.model.User> user = userRepository.findByEmail(loginRequest.getEmail());
         if (user.isEmpty()) {
-            // logger.warn("Utilisateur non trouvé pour l'email : {}", loginRequest.getEmail());
+            logger.warn("Utilisateur non trouvé pour l'email : {}", loginRequest.getEmail());
             return org.springframework.http.ResponseEntity.status(org.springframework.http.HttpStatus.BAD_REQUEST).body("Utilisateur non trouvé.");
         }
         // Vérifier le mot de passe
         if (!org.springframework.security.crypto.bcrypt.BCrypt.checkpw(loginRequest.getPassword(), user.get().getPassword())) {
-            // logger.warn("Mot de passe incorrect pour l'email : {}", loginRequest.getEmail());
+            logger.warn("Mot de passe incorrect pour l'email : {}", loginRequest.getEmail());
             return org.springframework.http.ResponseEntity.status(org.springframework.http.HttpStatus.UNAUTHORIZED).body("Mot de passe incorrect.");
         }
         // Si tout est bon, générer un token JWT
         String token = jwtUtil.generateToken(user.get().getEmail());
-        // logger.info("Utilisateur authentifié avec succès : {}", loginRequest.getEmail());
+        logger.info("Utilisateur authentifié avec succès : {}", loginRequest.getEmail());
         return org.springframework.http.ResponseEntity.ok(new com.profiling.profiling_project.model.AuthResponse(token));// Renvoie le token
 
     }

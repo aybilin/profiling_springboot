@@ -1651,20 +1651,6 @@
     "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getAllProducts"
   }
 }, {
-  "timestamp" : "2024-11-28T20:50:58.7179769+01:00",
-  "user" : {
-    "email" : "anonymousUser",
-    "role" : "user"
-  },
-  "action" : {
-    "method" : "login",
-    "params" : null
-  },
-  "event" : {
-    "status" : "success",
-    "message" : "Utilisateur: anonymousUser, Méthode appelée: login"
-  }
-}, {
   "timestamp" : "2024-11-28T20:51:14.513086+01:00",
   "user" : {
     "email" : "ayoub.bilem@gmail.com",
@@ -1677,5 +1663,439 @@
   "event" : {
     "status" : "success",
     "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-29T00:05:15.1508973+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-29T00:42:44.698848+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-11-29T00:44:08.3272509+01:00",
+  "user" : {
+    "email" : "ayoub.bilem@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub.bilem@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-04T18:03:32.9328351+01:00",
+  "user" : {
+    "email" : "marky@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: marky@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-04T18:04:27.1726978+01:00",
+  "user" : {
+    "email" : "markydow@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "register",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydow@gmail.com, Méthode appelée: register"
+  }
+}, {
+  "timestamp" : "2024-12-04T18:04:46.0081007+01:00",
+  "user" : {
+    "email" : "marky@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: marky@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-04T18:06:07.9964274+01:00",
+  "user" : {
+    "email" : "marky@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: marky@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-04T18:11:12.7350445+01:00",
+  "user" : {
+    "email" : "marky@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: marky@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-04T18:15:55.5928572+01:00",
+  "user" : {
+    "email" : "marky@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: marky@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-04T18:17:48.2925483+01:00",
+  "user" : {
+    "email" : "marky@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: marky@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-04T18:21:48.011863+01:00",
+  "user" : {
+    "email" : "marky@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: marky@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-04T18:22:19.084768+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "register",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: register"
+  }
+}, {
+  "timestamp" : "2024-12-04T18:26:39.3944422+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "register",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: register"
+  }
+}, {
+  "timestamp" : "2024-12-04T18:27:48.0913903+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-04T18:28:07.9496804+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-04T18:28:11.419164+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-06T14:28:38.8107125+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-06T14:42:19.4062138+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-06T14:42:40.5480117+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-06T14:46:48.6091564+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-06T15:22:55.0963819+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-06T15:24:16.449346+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-06T15:24:58.1569425+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "deleteProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: deleteProduct"
+  }
+}, {
+  "timestamp" : "2024-12-06T15:30:17.4111265+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-06T15:30:46.300774+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "deleteProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: deleteProduct"
+  }
+}, {
+  "timestamp" : "2024-12-06T23:50:53.529362+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-06T23:52:42.6852686+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-06T23:53:06.6589183+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-07T00:18:58.7468326+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-07T00:19:12.5257846+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-07T00:20:09.1366692+01:00",
+  "user" : {
+    "email" : "markydony@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: markydony@gmail.com, Méthode appelée: getAllProducts"
   }
 } ]
