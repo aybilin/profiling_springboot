@@ -45,7 +45,7 @@ public class ProductController {
         }
         return productService.getProductById(id);
     }
-    @GetMapping("/products/most-expensive")
+    @GetMapping("/most-expensive")
     public java.util.List<com.profiling.profiling_project.model.Product> getMostExpensiveProducts() {
         // Log de l'utilisateur authentifié et de l'action
         logger.info("Utilisateur: " + SecurityContextHolder.getContext().getAuthentication().getName() + ", Méthode appelée: getMostExpensiveProducts");
