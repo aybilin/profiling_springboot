@@ -18,7 +18,7 @@ public class OpenTelemetryConfig {
     public OpenTelemetry openTelemetry() {
         // Configure the Zipkin exporter
         ZipkinSpanExporter zipkinExporter = ZipkinSpanExporter.builder()
-                .setEndpoint("http://localhost:9414/api/v2/spans")
+                .setEndpoint("http://localhost:9411/api/v2/spans")
                 .build();
 
         // Define the service resource with the desired service name

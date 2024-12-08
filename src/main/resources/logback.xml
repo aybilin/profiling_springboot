@@ -1,11 +1,24 @@
 <configuration>
-    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+
+    <!-- Appender Console pour les logs en texte -->
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
         <encoder>
-            <pattern>%d{yyyy-MM-dd HH:mm:ss} %-5level %logger{36} - %msg%n</pattern>
+            <pattern>%d{yyyy-MM-dd HH:mm:ss} - %msg%n</pattern>
         </encoder>
     </appender>
 
+    <!-- Appender File pour les logs JSON -->
+    <appender name="FILE" class="ch.qos.logback.core.FileAppender">
+        <file>logs/application-logs.json</file>
+        <encoder class="net.logstash.logback.encoder.LogstashEncoder" />
+    </appender>
+
+    <!-- Niveau global des logs -->
     <root level="info">
-        <appender-ref ref="STDOUT" />
+        <appender-ref ref="CONSOLE" />
+        <appender-ref ref="FILE" />
     </root>
+
+    <!-- Affichage des erreurs de configuration -->
+    <statusListener class="ch.qos.logback.core.status.OnConsoleStatusListener" />
 </configuration>
