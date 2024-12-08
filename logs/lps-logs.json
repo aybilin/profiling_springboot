@@ -2728,4 +2728,3980 @@
     "status" : "success",
     "message" : "Utilisateur: mark@gmail.com, Méthode appelée: getMostExpensiveProducts"
   }
+}, {
+  "timestamp" : "2024-12-08T20:06:33.9087269+01:00",
+  "user" : {
+    "email" : "ayoub@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-08T20:08:32.4031421+01:00",
+  "user" : {
+    "email" : "ayoub@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-08T20:08:44.8668254+01:00",
+  "user" : {
+    "email" : "ayoub@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T20:08:45.1920012+01:00",
+  "user" : {
+    "email" : "ayoub@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T20:10:53.2924118+01:00",
+  "user" : {
+    "email" : "ayoub@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T20:10:53.3991945+01:00",
+  "user" : {
+    "email" : "ayoub@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T20:41:30.3243093+01:00",
+  "user" : {
+    "email" : "ayoub@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-08T20:42:20.9384209+01:00",
+  "user" : {
+    "email" : "ayoub@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductById",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub@gmail.com, Méthode appelée: getProductById"
+  }
+}, {
+  "timestamp" : "2024-12-08T20:47:08.0190009+01:00",
+  "user" : {
+    "email" : "ayoub@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getMostExpensiveProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub@gmail.com, Méthode appelée: getMostExpensiveProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T20:49:34.1507073+01:00",
+  "user" : {
+    "email" : "ayoub@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-08T20:49:45.6512857+01:00",
+  "user" : {
+    "email" : "ayoub@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductById",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub@gmail.com, Méthode appelée: getProductById"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:21:42.9453882+01:00",
+  "user" : {
+    "email" : "imene@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "register",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: imene@gmail.com, Méthode appelée: register"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:22:34.8425375+01:00",
+  "user" : {
+    "email" : "assia@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "register",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: assia@gmail.com, Méthode appelée: register"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:23:17.6836791+01:00",
+  "user" : {
+    "email" : "ahmed@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "register",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ahmed@gmail.com, Méthode appelée: register"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:23:55.5271052+01:00",
+  "user" : {
+    "email" : "majid@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "register",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: majid@gmail.com, Méthode appelée: register"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:24:42.9685154+01:00",
+  "user" : {
+    "email" : "amine@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "register",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: amine@gmail.com, Méthode appelée: register"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:25:07.3068944+01:00",
+  "user" : {
+    "email" : "youcef@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "register",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: youcef@gmail.com, Méthode appelée: register"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:25:29.526305+01:00",
+  "user" : {
+    "email" : "ines@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "register",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ines@gmail.com, Méthode appelée: register"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:26:08.2468852+01:00",
+  "user" : {
+    "email" : "brahim@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "register",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: brahim@gmail.com, Méthode appelée: register"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:26:23.4305204+01:00",
+  "user" : {
+    "email" : "ayoub@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:26:30.1266896+01:00",
+  "user" : {
+    "email" : "ayoub@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:26:30.3570955+01:00",
+  "user" : {
+    "email" : "ayoub@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:27:45.2401167+01:00",
+  "user" : {
+    "email" : "ayoub@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:27:46.6419167+01:00",
+  "user" : {
+    "email" : "ayoub@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: ayoub@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:28:02.8417418+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "login",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: login"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:28:05.3299863+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:28:05.4357998+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:28:05.4775397+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:28:05.4805466+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:28:05.4845489+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:28:05.4895503+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:28:05.4916502+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:28:05.6873065+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:28:05.6903097+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:28:05.7032266+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:28:05.7092273+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:28:05.7102269+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:00.0090804+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:00.0090804+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:00.0100796+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:00.0100796+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:00.0110866+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:00.0090804+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:00.1973773+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:00.1993787+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:00.2003789+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:00.2003789+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:00.2044052+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:10.3765565+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:10.3825559+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:10.3835548+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:10.3825559+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:10.3875514+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:10.3925539+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:10.5719427+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:10.5719427+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:10.5739639+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:10.5749651+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:10.5729665+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:26.7549725+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:26.7559746+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:26.7569768+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:26.7579712+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:26.7599688+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:26.7619713+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:26.9381198+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:26.9381198+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:26.9381198+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:26.9381198+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:26.9381198+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:58.9659455+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:58.9672645+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:58.9707056+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:58.9717062+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:58.9752085+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:58.9844842+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:59.3987377+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:59.4047362+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:59.4097541+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:59.4107533+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:29:59.4197548+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:43.7652875+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:43.768302+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:43.769527+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:43.7705354+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:43.768302+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:43.793242+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:44.0233216+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:44.024692+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:44.0233216+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:44.0269264+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:44.0279263+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:55.0169648+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:55.1092891+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:55.2151557+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:55.2151557+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:55.2161544+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:55.2171558+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:55.218551+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:55.3274382+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:55.3274382+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:55.3274382+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:55.3284559+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:31:55.3317687+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:02.5717662+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:02.5774644+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:02.5774644+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:02.5774644+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:02.5774644+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:02.5774644+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:02.7817627+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:02.7817627+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:02.7817627+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:02.7817627+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:02.784511+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:06.9364502+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:07.0129089+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:07.1156668+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:07.1156668+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:07.1156668+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:07.1156668+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:07.1181444+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:07.2176158+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:07.2176158+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:07.2186173+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:07.2186173+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:07.2186173+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:22.975442+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:22.9764501+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:22.9797136+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:22.9809419+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:22.9809419+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:22.9861735+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:23.2710789+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:23.274198+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:23.2834383+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:23.2869653+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:32:23.2991106+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:33:26.201439+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:33:27.7777514+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:33:33.2703765+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:33:33.3927701+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:33:33.5278937+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:33:33.5289022+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:33:33.5328942+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:33:33.5371369+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:33:33.5371369+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:33:33.5371369+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:33:33.6073627+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:33:33.6083713+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:33:33.6123627+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:33:33.6123627+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:33:33.6228686+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:33:33.6372282+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:20.960372+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:22.5264169+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:25.9486407+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:25.9936421+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:26.0597768+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:26.062778+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:26.062778+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:26.062778+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:26.0637781+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:26.062778+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:26.12071+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:26.2003475+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:26.2003475+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:26.2003475+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:26.2008527+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:26.201064+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:26.2008527+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:34:26.2706332+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:12.3932577+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:13.6144576+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.4132981+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.4946115+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.5946097+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.5946097+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.5956194+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.5956194+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.5956194+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.6017245+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.6854809+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.6873031+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.7465246+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.7465246+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.7465246+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.7475237+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.7495234+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.7495234+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.8217793+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:16.8291373+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:55.8906323+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:35:57.1932268+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:00.9066311+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:00.9840697+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.0234909+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.0250646+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.0250646+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.0250646+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.0250646+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.0791115+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.0964829+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.1025003+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.1109162+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.2073067+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.2073067+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.2073067+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.2073067+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.2073067+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.208305+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.2715391+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.2985002+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:36:01.2995089+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.3737196+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.4648432+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.5437924+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.5437924+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.5475503+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.5490168+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.5530332+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.5614507+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.6283561+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.6293554+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.6394645+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.7669078+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.7669078+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.7669078+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.7669078+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.7669078+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.7669078+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.8550041+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.8598781+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:38.8623807+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:55.074624+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:56.5712228+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:37:59.9326759+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.0174228+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.081368+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.081368+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.081368+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.081368+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.081368+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.1239176+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.1490474+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.173421+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.1860034+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.1884344+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.2640659+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.2660742+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.2660742+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.2710762+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.2720765+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.2766264+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.3423472+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.3494036+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.3526185+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:00.3546189+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:23.1499091+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "addProduct",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: addProduct"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:24.5124386+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:27.7012423+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:27.7674778+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getAllProducts",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getAllProducts"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:27.8577121+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:27.8619711+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:27.8674354+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:27.8704433+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:27.877839+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:27.877839+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:27.9624903+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:27.9688709+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:27.9818886+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:27.9925207+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:28.0033983+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:28.0812589+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:28.0812589+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:28.082978+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:28.0861887+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:28.0861887+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:28.0911958+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:28.1769898+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:28.1930137+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:28.1962252+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:28.1972339+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
+}, {
+  "timestamp" : "2024-12-08T22:38:28.2111108+01:00",
+  "user" : {
+    "email" : "kawthar@gmail.com",
+    "role" : "user"
+  },
+  "action" : {
+    "method" : "getProductImage",
+    "params" : null
+  },
+  "event" : {
+    "status" : "success",
+    "message" : "Utilisateur: kawthar@gmail.com, Méthode appelée: getProductImage"
+  }
 } ]

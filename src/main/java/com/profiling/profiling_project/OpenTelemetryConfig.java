@@ -1,4 +1,4 @@
-package com.profiling.profiling_project.config;
+package com.profiling.profiling_project;
 
 import io.opentelemetry.api.OpenTelemetry;
 import io.opentelemetry.api.trace.Tracer;
@@ -17,7 +17,7 @@ public class OpenTelemetryConfig {
     @Bean
     public OpenTelemetry openTelemetry() {
         ZipkinSpanExporter zipkinExporter = ZipkinSpanExporter.builder()
-                .setEndpoint("http://localhost:9411/api/v2/spans")
+                .setEndpoint("http://localhost:9414/api/v2/spans")
                 .build();
 
         Resource serviceResource = Resource.builder()
