@@ -1,0 +1,34 @@
+[ {
+  "email" : "dadoua.kawthar@gmail.com",
+  "readOperations" : 20,
+  "writeOperations" : 0,
+  "expensiveProductSearches" : 0,
+  "profileType" : "Undefined",
+  "operations" : {
+    "read" : [ "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts" ],
+    "write" : [ ],
+    "expensive" : [ ]
+  }
+}, {
+  "email" : "bilembou@example.com",
+  "readOperations" : 12,
+  "writeOperations" : 0,
+  "expensiveProductSearches" : 0,
+  "profileType" : "Undefined",
+  "operations" : {
+    "read" : [ "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts" ],
+    "write" : [ ],
+    "expensive" : [ ]
+  }
+}, {
+  "email" : "marky@gmail.com",
+  "readOperations" : 4,
+  "writeOperations" : 0,
+  "expensiveProductSearches" : 0,
+  "profileType" : "Undefined",
+  "operations" : {
+    "read" : [ "getAllProducts", "getAllProducts", "getAllProducts", "getAllProducts" ],
+    "write" : [ ],
+    "expensive" : [ ]
+  }
+} ]
