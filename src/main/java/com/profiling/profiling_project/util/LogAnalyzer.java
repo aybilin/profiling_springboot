@@ -11,20 +11,18 @@ import com.profiling.profiling_project.repository.UserProfileRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
-import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.io.*;
+import java.util.*;
+import java.util.stream.Collectors;
 
 @Component
 public class LogAnalyzer {
 
     private static final String LOG_FILE_PATH = "logs/application-logs.json";
     private static final String LPS_LOG_FILE_PATH = "logs/lps-logs.json";
+    private static final String READ_PROFILES_FILE_PATH = "logs/read-profiles.json";
+    private static final String WRITE_PROFILES_FILE_PATH = "logs/write-profiles.json";
+    private static final String EXPENSIVE_PROFILES_FILE_PATH = "logs/expensive-profiles.json";
 
     @Autowired
     private UserProfileRepository userProfileRepository;
@@ -32,12 +30,13 @@ public class LogAnalyzer {
     public void analyzeAndSaveProfiles() throws IOException {
         Map<String, UserProfile> userProfiles = analyzeLogsAndGenerateLPS();
         saveProfilesToDatabase(userProfiles);
+        saveProfilesToJsonFiles(userProfiles);
     }
 
     public Map<String, UserProfile> analyzeLogsAndGenerateLPS() throws IOException {
         Map<String, UserProfile> profiles = new HashMap<>();
         ObjectMapper objectMapper = new ObjectMapper();
-        List<LPS> lpsLogs = new ArrayList<>(); // Liste pour stocker les objets LPS
+        List<LPS> lpsLogs = new ArrayList<>();
 
         try (BufferedReader reader = new BufferedReader(new FileReader(LOG_FILE_PATH))) {
             String line;
@@ -55,8 +54,8 @@ public class LogAnalyzer {
                             // Construire le LPS
                             LPS lps = new LPS.Builder()
                                     .withTimestamp(log.get("@timestamp").asText())
-                                    .withUser(new User(email, "user")) // Ajoutez le rôle si disponible
-                                    .withAction(new Action(extractMethodName(message), null)) // Extraire la méthode appelée
+                                    .withUser(new User(email, "user"))
+                                    .withAction(new Action(extractMethodName(message), null))
                                     .withEvent(new Event("success", message))
                                     .build();
 
@@ -66,10 +65,13 @@ public class LogAnalyzer {
                             // Identifier le type d'opération
                             if (message.contains("getProducts") || message.contains("getAllProducts")) {
                                 userProfile.incrementReadOperations();
+                                userProfile.addOperation("read", extractMethodName(message));
                             } else if (message.contains("getMostExpensiveProducts")) {
                                 userProfile.incrementExpensiveProductSearches();
+                                userProfile.addOperation("expensive", extractMethodName(message));
                             } else if (message.contains("addProduct") || message.contains("updateProduct") || message.contains("deleteProduct")) {
                                 userProfile.incrementWriteOperations();
+                                userProfile.addOperation("write", extractMethodName(message));
                             }
                         }
                     }
@@ -98,16 +100,15 @@ public class LogAnalyzer {
     }
 
     private static String extractMethodName(String message) {
-        // Cherche une partie du message qui correspond au modèle "Méthode appelée: <nom>"
         if (message.contains("Méthode appelée: ")) {
             int startIndex = message.indexOf("Méthode appelée: ") + "Méthode appelée: ".length();
-            int endIndex = message.indexOf(",", startIndex); // Recherche la fin de la méthode (avant la prochaine virgule)
-            if (endIndex == -1) { // S'il n'y a pas de virgule, la méthode est à la fin
+            int endIndex = message.indexOf(",", startIndex);
+            if (endIndex == -1) {
                 endIndex = message.length();
             }
             return message.substring(startIndex, endIndex).trim();
         }
-        return "Unknown"; // Retourne "Unknown" si la méthode ne peut pas être extraite
+        return "Unknown";
     }
 
     private static String extractEmail(String message) {
@@ -124,4 +125,60 @@ public class LogAnalyzer {
     private void saveProfilesToDatabase(Map<String, UserProfile> profiles) {
         userProfileRepository.saveAll(profiles.values());
     }
+
+    private void saveProfilesToJsonFiles(Map<String, UserProfile> profiles) throws IOException {
+        ObjectMapper objectMapper = new ObjectMapper();
+
+        // Filtrage et structuration des profils
+        List<Map<String, Object>> readProfiles = profiles.values().stream()
+                .filter(profile -> profile.getProfileType().equals("Reader"))
+                .sorted(Comparator.comparingInt(UserProfile::getReadOperations).reversed()) // Ordre décroissant par opérations de lecture
+                .map(profile -> Map.of(
+                        "email", profile.getEmail(),
+                        "read_operations_count", profile.getReadOperations(),
+                        "operations", Map.of(
+                                "read", profile.getOperations().get("read"),
+                                "write", profile.getOperations().get("write"),
+                                "expensive", profile.getOperations().get("expensive")
+                        )
+                ))
+                .collect(Collectors.toList());
+
+        List<Map<String, Object>> writeProfiles = profiles.values().stream()
+                .filter(profile -> profile.getProfileType().equals("Writer"))
+                .sorted(Comparator.comparingInt(UserProfile::getWriteOperations).reversed()) // Ordre décroissant par opérations d'écriture
+                .map(profile -> Map.of(
+                        "email", profile.getEmail(),
+                        "write_operations_count", profile.getWriteOperations(),
+                        "operations", Map.of(
+                                "read", profile.getOperations().get("read"),
+                                "write", profile.getOperations().get("write"),
+                                "expensive", profile.getOperations().get("expensive")
+                        )
+                ))
+                .collect(Collectors.toList());
+
+        List<Map<String, Object>> expensiveProfiles = profiles.values().stream()
+                .filter(profile -> profile.getProfileType().equals("ExpensiveProductSearcher"))
+                .sorted(Comparator.comparingInt(UserProfile::getExpensiveProductSearches).reversed()) // Ordre décroissant par recherches de produits chers
+                .map(profile -> Map.of(
+                        "email", profile.getEmail(),
+                        "expensive_operations_count", profile.getExpensiveProductSearches(),
+                        "operations", Map.of(
+                                "read", profile.getOperations().get("read"),
+                                "write", profile.getOperations().get("write"),
+                                "expensive", profile.getOperations().get("expensive")
+                        )
+                ))
+                .collect(Collectors.toList());
+
+        // Sauvegarde des fichiers
+        objectMapper.writerWithDefaultPrettyPrinter().writeValue(new File(READ_PROFILES_FILE_PATH), readProfiles);
+        objectMapper.writerWithDefaultPrettyPrinter().writeValue(new File(WRITE_PROFILES_FILE_PATH), writeProfiles);
+        objectMapper.writerWithDefaultPrettyPrinter().writeValue(new File(EXPENSIVE_PROFILES_FILE_PATH), expensiveProfiles);
+
+        System.out.println("Profiles saved to JSON files: read, write, expensive");
+    }
+
+
 }
